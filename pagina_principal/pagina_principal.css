@@ -1,0 +1,33 @@
+.nav-link.active:hover {
+    color: #bbb;
+}
+.carousel {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+.carousel-inner img {
+    height: 400px; 
+    object-fit: cover; 
+}
+.texto {
+    box-sizing: border-box;
+    margin: 50px 100px;
+    font-family: sans-serif;
+}
+
+.custom{
+    background-color: #fff; 
+    color: #66f;
+    border: 1px solid #66f; 
+    margin: 10px; 
+}
+
+.custom:hover {
+    background-color: #66f;
+    color: #fff;
+}
+.center {
+    text-align: center;
+}

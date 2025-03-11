@@ -1,0 +1,36 @@
+.nav-link.active:hover {
+    color: #bbb;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 18rem;
+    display: inline-block;
+    margin: 10px;
+}
+.btn.btn-secondary {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+.card-img-top{
+    margin-bottom: 5px;
+    border-radius: 2px;
+}
+.custom{
+    background-color: #fff; 
+    color: #66f;
+    border: 1px solid #66f; 
+    margin: 10px; 
+}
+
+.custom:hover {
+    background-color: #66f;
+    color: #fff;
+}
